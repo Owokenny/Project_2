@@ -20,9 +20,9 @@
     
   - [Major cause of Deaths](#Major-cause-of-Deaths)
     
-- [Recommendation](#Recommendation)
+- [Recommendations](#Recommendations)
   
-- [Data Limitation and Caveats](#Data-Limitation-and-Caveat)
+- [Data Limitation and Caveats](#Data-Limitation-and-Caveats)
 
 ## Project Background
 
@@ -35,7 +35,7 @@ The Gaza Strip, also known as Gaza, is a small territory on the eastern coast of
 - To identify the cause of Fatalities.
 - To provide recommendations on measures that can be put in place to mitigate the effect of the war
 
-## Data Structure
+## Data Structures
 
 The Data has a single table with a row count of 400
 
